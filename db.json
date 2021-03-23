@@ -1,0 +1,53 @@
+{
+  "articles": [
+    {
+      "id": 0,
+      "title": "Le titre de l'article",
+      "category": "Veille technologique",
+      "description": "Une courte description de l'article",
+      "image": "https://picsum.photos/700/400",
+      "status": 1,
+      "createdAt": "22/03/2021",
+      "updatedAt": null
+    },
+    {
+      "id": 1,
+      "title": "Le titre d'un autre article",
+      "category": "Aide-mémoire",
+      "description": "Une courte description de l'article",
+      "image": "https://picsum.photos/720/400",
+      "status": 1,
+      "createdAt": "20/03/2021",
+      "updatedAt": "23/03/2021"
+    },
+    {
+      "id": 3,
+      "title": "Le titre d'un article inactif",
+      "category": "Aide-mémoire",
+      "description": "Une courte description de l'article",
+      "image": "https://picsum.photos/720/400",
+      "status": 0,
+      "createdAt": "20/03/2021",
+      "updatedAt": "23/03/2021"
+    }
+  ],
+  "projects": [
+    {
+      "id": 0,
+      "title": "Le nom de l'appli",
+      "categories": ["Javascript"],
+      "description": "Une courte description du projet",
+      "link": "#",
+      "image": null
+    },
+    {
+      "id": 1,
+      "title": "Un super projet !",
+      "categories": ["Java", "Javascript"],
+      "description": "Une courte description du projet",
+      "link": null,
+      "image": "https://picsum.photos/200/200"
+    }
+  ]
+  
+}
