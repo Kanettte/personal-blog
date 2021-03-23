@@ -39,6 +39,16 @@
       "status": 2,
       "createdAt": "23/03/2021",
       "updatedAt": null
+    },
+    {
+      "id": 4,
+      "title": "Le titre d'un article actif",
+      "category": "Veille technologique",
+      "description": "Une courte description de l'article",
+      "image": "https://picsum.photos/720/300",
+      "status": 1,
+      "createdAt": "23/03/2021",
+      "updatedAt": null
     }
   ],
   "projects": [
