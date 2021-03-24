@@ -7,7 +7,7 @@
       "description": "Une courte description de l'article",
       "image": "https://picsum.photos/700/400",
       "status": 1,
-      "createdAt": 2021-03-21T07:15:14.920Z,
+      "createdAt": "2021-03-23 15:21:07",
       "updatedAt": null
     },
     {
@@ -17,8 +17,8 @@
       "description": "Une courte description de l'article",
       "image": "https://picsum.photos/720/400",
       "status": 1,
-      "createdAt": 2021-03-20T07:15:14.920Z,
-      "updatedAt": 2021-03-23T07:15:14.920Z
+      "createdAt": "2021-03-20 15:21:07",
+      "updatedAt": "2021-03-23 15:21:07",
     },
     {
       "id": 3,
@@ -27,8 +27,8 @@
       "description": "Une courte description de l'article",
       "image": "https://picsum.photos/720/400",
       "status": 0,
-      "createdAt": 2021-03-22T07:15:14.920Z,
-      "updatedAt": 2021-03-24T07:14:14.920Z
+      "createdAt": "2021-03-18 15:21:07",
+      "updatedAt": "2021-03-25 15:21:07"
     },
     {
       "id": 4,
@@ -37,7 +37,7 @@
       "description": "Une courte description de l'article",
       "image": "https://picsum.photos/720/300",
       "status": 2,
-      "createdAt": 2021-03-23T07:15:14.920Z,
+      "createdAt": "2021-03-22 15:21:07",
       "updatedAt": null
     },
     {
@@ -47,7 +47,7 @@
       "description": "Une courte description de l'article",
       "image": "https://picsum.photos/720/300",
       "status": 1,
-      "createdAt": 2021-03-24T07:15:14.920Z,
+      "createdAt": "2021-03-26 15:21:07",
       "updatedAt": null
     }
   ],
