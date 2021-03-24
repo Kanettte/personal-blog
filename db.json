@@ -5,6 +5,17 @@
       "title": "Le titre de l'article",
       "category": "Veille technologique",
       "description": "Une courte description de l'article",
+      "message": "
+  ## This is a header
+
+This is a paragraph.
+
+### Subheader
+Other paragraph
+
+> Commentary
+
+**bold**"
       "image": "https://picsum.photos/700/400",
       "status": 1,
       "createdAt": "2021-03-23 15:21:07",
@@ -15,6 +26,7 @@
       "title": "Le titre d'un autre article",
       "category": "Aide-mémoire",
       "description": "Une courte description de l'article",
+      "message": "## This is a header",
       "image": "https://picsum.photos/720/400",
       "status": 1,
       "createdAt": "2021-03-20 15:21:07",
@@ -25,6 +37,7 @@
       "title": "Le titre d'un article inactif",
       "category": "Aide-mémoire",
       "description": "Une courte description de l'article",
+      "message": "## This is a header",
       "image": "https://picsum.photos/720/400",
       "status": 0,
       "createdAt": "2021-03-18 15:21:07",
@@ -35,6 +48,7 @@
       "title": "Le titre d'un article en brouillon",
       "category": "Veille technologique",
       "description": "Une courte description de l'article",
+      "message": "## This is a header",
       "image": "https://picsum.photos/720/300",
       "status": 2,
       "createdAt": "2021-03-22 15:21:07",
@@ -45,6 +59,7 @@
       "title": "Le titre d'un article actif",
       "category": "Veille technologique",
       "description": "Une courte description de l'article",
+      "message": "## This is a header",
       "image": "https://picsum.photos/720/300",
       "status": 1,
       "createdAt": "2021-03-26 15:21:07",
